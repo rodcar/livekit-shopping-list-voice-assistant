@@ -1,5 +1,6 @@
-# LiveKit Shopping List Voice Assistant
+<div align="center">
 
+# LiveKit Shopping List Voice Assistant
 #### **Voice-Enabled Shopping List Management with LiveKit Agents**
 
 ---
@@ -10,10 +11,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irodcar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodcar)
 
+</div>
+
 ---
 
 ## 📋 Table of Contents
 - [🎯 Overview](#-overview)
+- [🎬 Demo](#-demo)
 - [🚀 How to Use](#-how-to-use)
 - [📝 License](#-license)
 
@@ -22,6 +26,16 @@
 ## 🎯 Overview
 
 A voice-enabled shopping list assistant built with LiveKit that lets you manage your shopping list through natural voice commands. Add items, review your list, and send it via email - all hands-free.
+
+---
+
+## 🎬 Demo
+
+<div align="center">
+
+
+
+</div>
 
 ---
 
