@@ -1,0 +1,12 @@
+[project]
+name = "livekit-notion-daily-status-voice-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-communication-email>=1.0.0",
+    "livekit-agents[deepgram,openai,cartesia,silero,turn-detector]~=1.0",
+    "livekit-plugins-noise-cancellation~=0.2",
+    "python-dotenv",
+]
