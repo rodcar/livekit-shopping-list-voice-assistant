@@ -7,6 +7,7 @@
 
 ### 👨‍💻 Author
 **Ivan Yang Rodriguez Carranza**
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanrodcar@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irodcar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodcar)
@@ -32,6 +33,10 @@ A voice-enabled shopping list assistant built with LiveKit that lets you manage 
 ## 🎬 Demo
 
 <div align="center">
+
+
+
+https://github.com/user-attachments/assets/77053dfa-b108-4718-a071-4fd6fb726d07
 
 
 
