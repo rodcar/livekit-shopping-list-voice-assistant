@@ -1,7 +1,7 @@
 <div align="center">
 
 # LiveKit Shopping List Voice Assistant
-#### **Voice-Enabled Shopping List Management with LiveKit Agents**
+#### **Voice-Enabled Shopping List Assistant with LiveKit Agents**
 
 ---
 
